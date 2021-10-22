@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @murtaza7799
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning mobile application development and web development.
+- 👋 Hi, I’m @murtaza7799, i am a software Engineer.
+- 👀 I’m interested in software development and software management.
+- 🌱 I’m expert in native android application development and currently learning application development(Flutter) and web development(REACT).
 - 💞️ I’m looking to collaborate on development project.
 - 📫 Anyone can reach me at murtazasarwar@live.com
 
