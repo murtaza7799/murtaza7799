@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murtaza7799, i am a software Engineer.
 - 👀 I’m interested in software development and software management.
-- 🌱 I’m expert in native android application development and currently learning application development(Flutter) and web development(REACT).
+- 🌱 I’m expert in native android application development and currently learning application development(Flutter) and web development(REACT,Node.js,Larvel).
 - 💞️ I’m looking to collaborate on development project.
 - 📫 Anyone can reach me at murtazasarwar@live.com
 
