@@ -4,10 +4,10 @@
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Mobile Applications developer.
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
-- 🌐 Working on Web development too(MERN STACK).
+- 🌐 Working on Web development too (MERN STACK).
 - 👁️ Fallen in LOVE with ❤️Computer Vision & Digital Image Processing
 - 🤔 Working on Cross-Platform Applications
-
+- 💻 Working on Desktop Application 
 ### Skills
 - Languages : C , Java, Kotlin, Dart, Python, HTML, CSS, JavaScript,
 - Databases : MySQL, MongoDB, Firebase
