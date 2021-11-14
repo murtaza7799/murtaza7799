@@ -9,12 +9,12 @@
 - 🤔 Working on Cross-Platform Applications
 - 💻 Working on Desktop Application 
 ### Skills
-- Languages : C , Java, Kotlin, Dart, Python, HTML, CSS, JavaScript,
-- Databases : MySQL, MongoDB, Firebase
-- Frameworks : Android, Flutter, Bootstrap
-- MERN Stack : MongoDB, ExpressJS, ReactJS, NodeJS
-- Tools : Git, GitHub, Firebase, JavaFX
-- Others : Technical Writing, UI/UX Designing, Team Leadership, Project Management,
+- **Languages** : C , Java, Kotlin, Dart, Python, HTML, CSS, JavaScript,
+- **Databases** : MySQL, MongoDB, Firebase
+- **Frameworks** : Android, Flutter, Bootstrap
+- **MERN Stack** : MongoDB, ExpressJS, ReactJS, NodeJS
+- **Tools** : Git, GitHub, Firebase, JavaFX
+- **Others** : Technical Writing, UI/UX Designing, Team Leadership, Project Management,
 
 <!---
 murtaza7799/murtaza7799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
