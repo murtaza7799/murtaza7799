@@ -9,7 +9,7 @@
 - 🤔 Working on Cross-Platform Applications
 - 💻 Working on Desktop Application 
 ### Skills
-- **Languages** : C , Java, Kotlin, Dart, Python, HTML, CSS, JavaScript,
+- **Languages** : C , Java, Kotlin, Dart, HTML, CSS, JavaScript,
 - **Databases** : MySQL, MongoDB, Firebase
 - **Frameworks** : Android, Flutter, Bootstrap
 - **MERN Stack** : MongoDB, ExpressJS, ReactJS, NodeJS
