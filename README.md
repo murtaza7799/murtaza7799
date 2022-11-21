@@ -1,18 +1,20 @@
  #### Hi there!  I'm  Muhammad Murtaza🙋‍♂️
   #### Welcome Here,
-- 👨‍🎓 Software Engineering Undergraduate student.
+- 👨‍🎓 Software Engineer.
 - 👨‍💻 #SelfTaught Developer.
-- 📱 Mobile Applications developer.
-- 👨‍💻 Mostly working on 📱Android 🔥Firebase!
-- 🌐 Working on Web development too (MERN STACK).
-- 👁️ Fallen in LOVE with ❤️Computer Vision & Digital Image Processing
+- 📱 Web Application Developer(REACT.JS, Next.js, tRPC, Prisma, EXPRESS.JS, NODE.JS, MONGODB, Typescript, Javascript).
+- 👨‍💻 Mostly working web3 APP!
+- 👁️ Working on Blockchain Development( Web3.js/Ether.js, (ERC/EIP), Binance Smart Chain (BSC), smart contracts (Solidity), DeFi-based decentralized applications (DApps), Pancakeswap, uniswap, Launchpad, Non-Fungible
+Tokens (NFTs))
+- 🌐 Working on Mobile development too.
+
+
 - 🤔 Working on Cross-Platform Applications
-- 💻 Working on Desktop Application 
 ### Skills
-- **Languages** : C , Java, Kotlin, Dart, HTML, CSS, JavaScript,
-- **Databases** : MySQL, MongoDB, Firebase
-- **Frameworks** : Android, Flutter, Bootstrap
-- **MERN Stack** : MongoDB, ExpressJS, ReactJS, NodeJS
+- **Languages** :Solidity, C , Java, HTML, CSS, JavaScript, TypeScript
+- **Databases** : MySQL, MongoDB, Firebase, Postgres, Oracle, DynamoDB
+- **Frameworks & Tech Stack** : Node.js, Next.js, Redux, Web3.js, Express.js, Tailwind, Vue, ChakraUi, tRPC
+- **Cloud ** : AWS , Google Cloud, Digital Ocean
 - **Tools** : Git, GitHub, Firebase, JavaFX
 - **Others** : Technical Writing, UI/UX Designing, Team Leadership, Project Management,
 
