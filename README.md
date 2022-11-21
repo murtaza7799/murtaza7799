@@ -14,7 +14,7 @@ Tokens (NFTs))
 - **Languages** :Solidity, C , Java, HTML, CSS, JavaScript, TypeScript
 - **Databases** : MySQL, MongoDB, Firebase, Postgres, Oracle, DynamoDB
 - **Frameworks & Tech Stack** : Node.js, Next.js, Redux, Web3.js, Express.js, Tailwind, Vue, ChakraUi, tRPC
-- **Cloud ** : AWS , Google Cloud, Digital Ocean
+- **Cloud** : AWS , Google Cloud, Digital Ocean
 - **Tools** : Git, GitHub, Firebase, JavaFX
 - **Others** : Technical Writing, UI/UX Designing, Team Leadership, Project Management,
 
