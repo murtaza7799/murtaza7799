@@ -2,7 +2,7 @@
   #### Welcome Here,
 - 👨‍🎓 Software Engineer(Web and Solidity Expert).
 - 👨‍💻 #SelfTaught Developer.
-- 📱 Web Application Developer MERN STACK,T3 STACK(REACT.JS, Next.js, tRPC, Prisma, EXPRESS.JS, NODE.JS, MONGODB, Typescript, Javascript).
+- 📱 Web Application Developer MERN STACK, T3 STACK(REACT.JS, Next.js, tRPC, Prisma, EXPRESS.JS, NODE.JS, MONGODB, Typescript, Javascript).
 - 👨‍💻 Mostly working on web3 APP!
 - 👁️ Working on Blockchain Development( Web3.js/Ether.js, (ERC/EIP), Binance Smart Chain (BSC), smart contracts (Solidity), DeFi-based decentralized applications (DApps), Pancakeswap, uniswap, Launchpad, Non-Fungible
 Tokens (NFTs))
