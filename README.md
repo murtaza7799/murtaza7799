@@ -2,7 +2,7 @@
   #### Welcome Here,
 - 👨‍🎓 Software Engineer( Full Stack and Blockchain).
 - 👨‍💻 #SelfTaught Developer.
-- 📱 Full Stack Developer, T3 STACK(Next.js, tRPC, Prisma, EXPRESS.JS, NODE.JS, MONGODB, Typescript, Chakra Ui).
+- 📱 Full Stack Developer, T3 STACK(Next.js, tRPC, Next Auth, Prisma, MONGODB, Typescript, Chakra Ui).
 - 👨‍💻 Mostly working on web3 APP!
 - 👁️ Working on Blockchain Development( Web3.js/Ether.js, (ERC/EIP), Binance Smart Chain (BSC), smart contracts (Solidity), DeFi-based decentralized applications (DApps), Pancakeswap, uniswap, Launchpad, Non-Fungible
 Tokens (NFTs))
