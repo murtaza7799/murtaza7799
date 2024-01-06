@@ -13,9 +13,37 @@ Tokens (NFTs))
 ### Skills
 - **Languages** :Solidity, C , Java, HTML, CSS, JavaScript, TypeScript
 - **Databases** : MySQL, MongoDB, Firebase, Postgres, Oracle, DynamoDB
-- **Frameworks & Tech Stack** : Node.js, Next.js, Redux, Web3.js, Express.js, Tailwind, Vue, ChakraUi, tRPC
-- **Cloud** : AWS , Google Cloud, Digital Ocean
-- **Tools** : Git, GitHub, Firebase, JavaFX
+- **Frameworks & Tech Stack** : Tailwind CSS
+Chakra UI, 
+Material UI, 
+Bootstrap, 
+Ionic UI, 
+React Native, 
+React, 
+Next.js, 
+Framer Motion, 
+Storybook, 
+Framework7, 
+Redux Toolkit, 
+Prisma, 
+tRPC, 
+NextAuth.js, 
+Vercel, 
+Webpack, 
+Gatsby, 
+Jest, 
+MySQL, 
+Firebase, 
+Heroku, 
+AWS S3, 
+Netlify, 
+Vercel, 
+Docker, 
+Express, 
+MongoDB, 
+Capacitor
+- **Cloud** : AWS , Google Cloud, Digital Ocean, Vercel
+- **Tools** : Git, GitHub, Firebase, VSCode, XCode, Android Studio, Azure DevOps, Figma
 - **Others** : Technical Writing, UI/UX Designing, Team Leadership, Project Management,
 
 <!---
