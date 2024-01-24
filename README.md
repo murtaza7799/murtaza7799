@@ -54,7 +54,7 @@ Capacitor
 " /><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 
 ------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza7799&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza7799&hide=TeX&layout=compact&theme=dark&\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ------------
 
