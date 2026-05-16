@@ -199,6 +199,6 @@ const murtaza = {
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=64748B&center=true&vCenter=true&width=500&lines=Made+with+%E2%99%A5+in+Manchester%2C+UK+%F0%9F%87%AC%F0%9F%87%A7;Always+building%2C+always+shipping+%F0%9F%9A%80" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=64748B&center=true&vCenter=true&width=500&lines=Made+with+%E2%99%A5+in+UK;Always+building%2C+always+shipping+%F0%9F%9A%80" alt="footer" />
 
 </div>
