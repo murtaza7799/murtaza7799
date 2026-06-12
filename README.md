@@ -160,17 +160,6 @@ const murtaza = {
 </div>
 
 
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=murtaza7799&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
