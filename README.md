@@ -133,7 +133,6 @@ const murtaza = {
 | 💊 **[RhinoPay](https://github.com/murtaza7799)** | React · Stripe · Node.js | Payment gateway with multi-currency support and webhook handling |
 | 🚗 **[Auto Spare Parts](https://github.com/murtaza7799)** | Next.js · MongoDB · REST | B2B e-commerce marketplace for automotive parts with seller portal |
 
-> 🔗 Replace each `https://github.com/murtaza7799` link with the actual repo URL once repos are public.
 
 ---
 
